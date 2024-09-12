@@ -4,4 +4,4 @@ It only works if the Android-Emulator is selected / active
 
 Please execute the AndroidPaster.exe
 
-Created by Hakan Öztürk
+Created by Hakan
